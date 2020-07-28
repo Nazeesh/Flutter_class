@@ -1,0 +1,14 @@
+import 'package:flutter/material.dart';
+
+main() {
+  var x = Text(
+    'Hello',
+    textDirection: TextDirection.ltr,
+    textAlign: TextAlign.center,
+  );
+
+  runApp(x);
+}
+
+
+#we dont want our app to look so simple so we are going to use Material Design Language.
